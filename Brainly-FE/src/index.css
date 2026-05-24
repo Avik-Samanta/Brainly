@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root{
+  --color-button-primary: oklch(51.017% 0.26191 276.948);
+  --color-button-secondary: oklch(0.785 0.115 274.713);
+  --color-text-primary: oklch(0.257 0.09 281.288);
+  --color-text-secondary: oklch(0.962 0.018 272.314);
+  --color-bg-primary: oklch(0.928 0.006 264.531);
+  --color-bg-secondary: oklch(0.985 0.001 106.423);
+  --color-card-bg: oklch(0.962 0.018 272.314);
+
+}
